@@ -12,10 +12,11 @@ nav:
 favicon: /favicon.ico
 
 # Profile
-nickname: Jeremy Bentham
+nickname: Kedar Mahale
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
+description: I am Kedar Mahale, an embedded software engineer by profession, <br> a hobbyist photographer, an animal lover and sometimes a writer. <br>
+ If you want to talk about anything interesting, feel free to contact me <br> and maybe we can catch up sometime.
 avatar: /image/avatar.jpeg
 
 # main menu navigation
@@ -33,8 +34,8 @@ links:
   # Gallery:
   # RSS:
   # AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
-  # LinkedIn:
+  # ZhiHu: https://www.zhihu.com/people/sirice
+  LinkedIn: https://linkedin.com/in/kedarmahale
   # FaceBook:
   # Twitter:
   # Skype:
@@ -43,13 +44,13 @@ links:
   # Sketch:
   # Gitlab:
   # Dribbble:
-  Instagram:
-  Reddit:
+  Instagram: https://instagram.com/_dar.k20_
+  # Reddit:
   # YouTube:
   # QQ:
   # Weibo:
   # WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/kedarmahale
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
@@ -66,10 +67,10 @@ post_category_enable: true
 post_copyright_enable: true
 
 post_copyright_author_enable: true
-post_copyright_permalink_enable: true
+post_copyright_permalink_enable: false
 post_copyright_license_enable: true
-post_copyright_license_text: Copyright (c) 2019 <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE
-post_copyright_slogan_enable: true
+post_copyright_license_text: Copyright (c) 2022 
+post_copyright_slogan_enable: false
 post_copyright_slogan_text: Do you believe in <strong>DESTINY</strong>?
 ## toc
 post_toc_enable: true
